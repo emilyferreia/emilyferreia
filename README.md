@@ -1,4 +1,4 @@
-- # Sobre mimg
+- # Sobre mim
 - 
 -   👋 ola meu nome @emilyferreira
 - 👀 meu email de contato e estudante .alura@gmail.com.br
